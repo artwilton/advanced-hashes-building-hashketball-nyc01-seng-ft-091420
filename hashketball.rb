@@ -6,8 +6,8 @@ def game_hash
       :players = []
     },
     :away = {
-      :team_name = "Brooklyn Nets",
-      :colors = "",
+      :team_name = "Charlotte Hornets",
+      :colors = ["Turquoise", "Purple"],
       :players = []
     }
   }
